@@ -347,7 +347,6 @@ Strings
 Structure
 Style
 Stochastic Gradient Descent
-Subplot
 Subplots
 Subqueries
 Supervised Learning
